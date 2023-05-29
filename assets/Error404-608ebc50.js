@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as _,p as c,g as t,d as r}from"./index-22555a5f.js";const a={},d=e=>(c("data-v-976b0bd6"),e=e(),t(),e),n={class:"container-error"},p=d(()=>r("h1",null,"Error 404",-1)),i=[p];function l(e,h){return s(),_("div",n,i)}const b=o(a,[["render",l],["__scopeId","data-v-976b0bd6"]]);export{b as default};
